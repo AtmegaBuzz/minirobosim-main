@@ -1,5 +1,5 @@
-# Box2D==2.3.2
-# Box2D-kengz==2.3.3
+Box2D==2.3.2
+Box2D-kengz==2.3.3
 box2d-py==2.3.8
 cycler==0.11.0
 fonttools==4.29.1
